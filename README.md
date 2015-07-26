@@ -15,4 +15,4 @@
 -5. Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in the project working directory.
 
 -Dependencies
--Install Packages data.table, reshape2
+-Install Packages data.table, reshape2 
